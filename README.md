@@ -16,3 +16,4 @@ Our project aims at proiding consultation to a real estate agency that helps hou
 The square footage of living space is one of the most influential factors when it comes to determining the value of a property. It was discovered that it has the highest correlation with price. 
 
 ![image](https://user-images.githubusercontent.com/109353419/193121490-dac034d2-0a26-4b4b-9693-98787f99fba0.png)
+
