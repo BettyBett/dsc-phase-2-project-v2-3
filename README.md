@@ -20,18 +20,6 @@ The graph below indicates that the square footage of living space is postively c
 ![image](https://user-images.githubusercontent.com/109353419/193239820-36419666-d5ed-4687-a354-12ea598185ec.png)
 
 
-We were able to check the correlation between these features to price.
-price           1.000000
-sqft_living     0.792749
-sqft_above      0.724267
-Grade1          0.682691
-bathrooms       0.671431
-view1           0.494763
-bedrooms        0.416373
-floors          0.217050
-yr_renovated    0.168015
-sqft_lot        0.127459
-condition1      0.053972
-zipcode        -0.048096
-yr_built       -0.048597
-waterfront1    -0.331173
+We were able to check the correlation between these features to price. The house features with the highest correlation are; sqft_living, sqft_above, grade, bathrooms and view.
+
+
