@@ -23,3 +23,4 @@ The graph below indicates that the square footage of living space is postively c
 We were able to check the correlation between these features to price. The house features with the highest correlation are; sqft_living, sqft_above, grade, bathrooms and view.
 
 
+https://public.tableau.com/app/profile/betty2065/viz/KingCounty_16645365230480/Dashboard1?publish=yes
